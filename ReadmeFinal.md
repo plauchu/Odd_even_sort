@@ -2,7 +2,7 @@
 
 ## Información general
 
-Este repositorio es una implementación de un método que organiza arreglos y listas de maner óptima, está implementado en Python utilizando Spyther.
+Este repositorio es una implementación de un método que organiza arreglos y listas de maner óptima, está implementado en Python utilizando Spyder.
 
 ## ¿Qué es?
 
